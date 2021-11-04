@@ -93,7 +93,7 @@ setup_args = dict(
         "notebook>=4.2",
         "nbconvert>=6.0.7",
         "nbformat",
-        "traitlets==4.3.3",
+        "traitlets",
         "jupyter_core",
         "jupyter_client",
         "tornado",
